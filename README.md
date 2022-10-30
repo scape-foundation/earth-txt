@@ -2,9 +2,12 @@
 
 
 **A .TXT file for Earth**
+Earth.txt is a proposed standard which allows websites to define environmental sustainability policies.
 
-[earth.txt](https://www.earthtxt.org "earth.txt website")
 
+## Website
+
+[www.earthtxt.org](https://www.earthtxt.org "earth.txt website")
 
 
 ## Authors
