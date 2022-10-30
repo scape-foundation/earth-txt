@@ -7,11 +7,31 @@ Earth.txt is a proposed standard which allows websites to define environmental s
 
 ## Quick Start
 
-### Placement
+
+### 1. Create
+
+
+Create a text file called `earth.txt` (always in lower-case) and make it UTF-8 encoded to avoid issues with special characters and multiple languages.
+
+
+
+### 2. Place
 
 In principle, the earth.txt file should be placed under the `/.well-known/` path of your website. For example:
 
-`(/.well-known/earth.txt`
+`https://example.com/.well-known/earth.txt`
+
+
+If the `/.well-known/` directory cannot be used for technical reasons, or if you want to use a fallback option, the `earth.txt` file can also be placed in the `root` directory. For example:
+
+`https://example.com/earth.txt`
+
+
+Optionally, you can add a `“help”` tag to the `<head>` section of the site:
+
+`<link type="text/plain" rel="help" href="https://example.com/earth.txt"/>`
+
+### 3. Serve
 
 
 
