@@ -1,8 +1,9 @@
 # earth.txt
 
 
-**A .TXT file for Earth.**\
-Earth.txt is a proposed standard which allows websites to define environmental sustainability policies.
+**A .TXT file for Earth.**  
+
+**`earth.txt`** is a proposed standard which allows websites to define environmental sustainability policies.
 
 
 ## Quick Start
@@ -10,29 +11,48 @@ Earth.txt is a proposed standard which allows websites to define environmental s
 
 ### 1. Create
 
+#### 1.1 Filename
+Create a text file called **`earth.txt`**. Always use lower-case.
 
-Create a text file called `earth.txt` (always in lower-case) and make it UTF-8 encoded to avoid issues with special characters and multiple languages.
-
+#### 1.2 Encoding
+Make the **`earth.txt`** file is UTF-8 encoded to avoid issues with special characters and multiple languages.
 
 
 ### 2. Place
 
-In principle, the earth.txt file should be placed under the `/.well-known/` path of your website. For example:
+#### 2.1. well-known Directory
+In principle, the **`earth.txt`** file should be placed under the `/.well-known/` path of your website. For example:
 
-`https://example.com/.well-known/earth.txt`
+`https://example.com/.well-known/earth.txt`  
+
+  
+#### 2.2. Root Directory
+If the `/.well-known/` directory cannot be used for technical reasons, or if you want to use a fallback option, the **`earth.txt`** file can also be placed in the `root` directory of your website. For example:
+
+`https://example.com/earth.txt`  
 
 
-If the `/.well-known/` directory cannot be used for technical reasons, or if you want to use a fallback option, the `earth.txt` file can also be placed in the `root` directory. For example:
-
-`https://example.com/earth.txt`
+### 3. Link
 
 
-Optionally, you can add a `“help”` tag to the `<head>` section of the site:
+#### 3.1. Head
 
-`<link type="text/plain" rel="help" href="https://example.com/earth.txt"/>`
+Place a reference to the file using a `“help”` tag to the `<head>` section of your website. For example:
 
-### 3. Serve
+`<link type="text/plain" rel="help" href="https://example.com/earth.txt"/>`  
 
+
+#### 3.2. Button
+Embed a **`earth.txt`** button to your site and link it to your **`earth.txt`** file.
+
+
+### 4. Serve
+
+#### 4.1. Internet Media Type
+The **`earth.txt`** file should have an Internet Media Type of `text/plain`. 
+
+#### 4.2. Protocol
+The **`earth.txt`** file must be served over HTTPS.
 
 
 ## Website
