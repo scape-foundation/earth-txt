@@ -5,6 +5,16 @@
 Earth.txt is a proposed standard which allows websites to define environmental sustainability policies.
 
 
+## Quick Start
+
+### Placement
+
+In principle, the earth.txt file should be placed under the `/.well-known/` path of your website. For example:
+
+`(/.well-known/earth.txt`
+
+
+
 ## Website
 
 - earth.txt Website: [https://www.earthtxt.org](https://www.earthtxt.org "earth.txt website")
