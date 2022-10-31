@@ -1,5 +1,6 @@
-## Contributing
+# Contributing
 
+This document provides guidelines for contributing to this projct.
 Contributions from the public are welcome.
 
 ### Using the issue tracker 💡
