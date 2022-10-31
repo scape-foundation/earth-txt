@@ -75,14 +75,18 @@ Make the **`earth.txt`** file is UTF-8 encoded to avoid issues with special char
 #### 2.1. well-known Directory
 In principle, the **`earth.txt`** file should be placed under the `/.well-known/` path of your website. For example:
 
-`https://example.com/.well-known/earth.txt`
+```
+https://example.com/.well-known/earth.txt
+```
 
 
 
 #### 2.2. Root Directory
 If the `/.well-known/` directory cannot be used for technical reasons, or if you want to use a fallback option, the **`earth.txt`** file can also be placed in the `root` directory of your website. For example:
 
-`https://example.com/earth.txt`
+```
+https://example.com/earth.txt
+```
 
 
 The final directory structure for your website could look like this:
