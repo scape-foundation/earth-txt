@@ -64,10 +64,11 @@
 ### 1. Create
 
 #### 1.1 Filename
-Create a text file called **`earth.txt`**. Always use lower-case.
+Create a text file called **`earth.txt`**.
+Always use lower-case formatting for the filename.
 
 #### 1.2 Encoding
-Make the **`earth.txt`** file is UTF-8 encoded to avoid issues with special characters and multiple languages.
+Make sure that the **`earth.txt`** file is UTF-8 encoded to avoid issues with special characters and multiple languages.
 
 
 ### 2. Place
@@ -89,7 +90,7 @@ https://example.com/earth.txt
 ```
 
 
-The final directory structure for your website could look like this:
+The **`earth.txt`** file can be placed in both locations of a website at the same time. Hence, the final directory structure for your website could look like this:
 
 ```
 example.com/
@@ -131,6 +132,10 @@ The **`earth.txt`** file must be served over HTTPS.
 ```
 
 ```
+
+## Fields
+
+
 
 ## Website
 
