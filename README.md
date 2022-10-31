@@ -4,7 +4,7 @@
 </p>
 
 
-# earth.txt
+# earth.txt (WiP)
 
 
 **A .TXT file for Earth.**
@@ -72,6 +72,13 @@ The **`earth.txt`** file should have an Internet Media Type of `text/plain`.
 #### 4.2. Protocol
 The **`earth.txt`** file must be served over HTTPS.
 
+
+## Template
+
+
+```
+
+```
 
 ## Website
 
