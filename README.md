@@ -105,16 +105,5 @@ website: [www.scape.foundation](https://www.scape.foundation "Scape Foundation w
 
 ## Contributing
 
-Contributions from the public are welcome.
+Contributions from the public are welcome. Refer to the [contribution guidelines](CONTRIBUTING.md) for information on contributing to this project.
 
-### Using the issue tracker 💡
-
-The issue tracker is the preferred channel for bug reports and features requests. [GitHub issues](https://github.com/scape-foundation/earth.txt/issues)
-
-### Issues and labels 🏷
-
-The bug tracker utilizes several labels to help organize and identify issues.
-
-### Guidelines for bug reports 🐛
-
-Use the GitHub issue search — check if the issue has already been reported.
