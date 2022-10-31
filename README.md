@@ -107,7 +107,9 @@ example.com/
 
 Place a reference to the file using a `“help”` tag to the `<head>` section of your website. For example:
 
-`<link type="text/plain" rel="help" href="https://example.com/earth.txt"/>`
+```
+<link type="text/plain" rel="help" href="https://example.com/earth.txt"/>
+```
 
 
 #### 3.2. Button
