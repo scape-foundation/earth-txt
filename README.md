@@ -156,7 +156,7 @@ website: [www.scape.foundation](https://www.scape.foundation "Scape Foundation w
 ## Roadmap
 
 
-## License
+## :information_source: License
 
 **`earth.txt`** is licensed under the terms of the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International License").
 
