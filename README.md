@@ -134,9 +134,20 @@ The **`earth.txt`** file must be served over HTTPS.
 
 ## Template
 
+An example of a valid earth.txt file:
 
 ```
-
+# You may contact us at any of the following URLs:
+Contact: mailto:example@example.com
+Contact: https://example.com/environment
+Expires: 2023-01-01T04:59:00.000Z
+Acknowledgments: https://example.com/acknowledgments
+# Use English or Dutch to conact us please!
+Preferred-Languages: en, nl
+Canonical: https://example.com/.well-known/earth.txt
+Canonical: https://example.com/earth.txt
+Policy: https://example.com/environmental_policy
+Hiring: https://example.com/careers
 ```
 
 ## Fields
@@ -176,7 +187,7 @@ website: [www.scape.foundation](https://www.scape.foundation "Scape Foundation w
 ## Roadmap
 
 
-## :information_source: License
+## License
 
 **`earth.txt`** is licensed under the terms of the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International License").
 
