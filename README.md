@@ -30,7 +30,7 @@
 ![stars](https://img.shields.io/github/stars/scape-foundation/earth-txt?color=blue&label=stars&style=flat-square)
 ![forks](https://img.shields.io/github/forks/scape-foundation/earth-txt?color=blue&label=forks&style=flat-square)
 ![downloads](https://img.shields.io/github/downloads/scape-foundation/earth-txt/total?color=blue&label=downloads&style=flat-square)
-![sponsors](https://img.shields.io/github/sponsors/starling-associates?color=blue&label=sponsors&style=flat-square)
+![sponsors](https://img.shields.io/github/sponsors/scape-foundation?color=blue&label=sponsors&style=flat-square)
 ![contributors](https://img.shields.io/github/contributors/scape-foundation/earth-txt?color=blue&label=contributors&style=flat-square)
 
 </div>
@@ -189,10 +189,8 @@ website: [www.scape.foundation](https://www.scape.foundation "Scape Foundation w
 
 ## License
 
-**`earth.txt`** is licensed under the terms of the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International License").
 
-
-
+Except where otherwise noted, **`earth.txt`** by the Scape Foundation is licensed under the terms of the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International License"). To view a copy of this license, visit [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International License") or write to Creative Commons, 171 Second Street, Suite 300, San Francisco, CA 94105, USA.
 
 ## Contributing
 
