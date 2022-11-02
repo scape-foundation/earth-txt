@@ -53,12 +53,12 @@
 
 
 
-## About
-
-
 > “The Internet is the single biggest thing we’re going to build as a species. This is something if we build it the right way, with the right sources of energy, could really help power our transition to renewables. If we build it the wrong way, it could actually exacerbate the problem.”
 >
 > — Gary Cook, Greenpeace
+
+
+## About
 
 
 **`earth.txt`** is a proposed standard which allows websites to define environmental sustainability policies.
