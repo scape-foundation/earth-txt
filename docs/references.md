@@ -1,11 +1,4 @@
-
-## Other
-
-Readme
-======
-
-robots.txt
-==========
+## robots.txt
 
 contains information and instructions for robots (so it should be read/used by web crawlers, spiders and other kind of bots)
 
@@ -13,15 +6,14 @@ link:   http://www.robotstxt.org
         https://en.wikipedia.org/wiki/Robots_exclusion_standard
 
 
-humans.txt
-==========
+## humans.txt
 
 contains useful information to be consumed by humans, according to http://humanstxt.org/
 link:   http://humanstxt.org/
 https://www.reddit.com/r/webdev/comments/2u4p41/companies_with_humanstxt/
 
-hackers.txt
-===========
+
+## hackers.txt
 
 should be targeted towards hackers, so it should contain any information the site owner might want to transmit to a hacker, 
 as Ze'ev pointed out. I don't think this should be a place for hackers to write anything, 
@@ -32,8 +24,7 @@ As with humans.txt, there also seems to be a hackers.txt site at h
 link:   http://www.hackerstxt.org/
 
 
-security.txt
-============
+## security.txt
 
 Details and a nifty tool to generate your own security.txt can be found at 
 A proposed standard which allows websites to define security policies.
@@ -45,8 +36,8 @@ link:   https://securitytxt.org/
         https://github.com/securitytxt/security-txt/tree/master/docs
 
 
-licence.txt
-===========
+## licence.txt
+
 License.txt is simply a generic name for any license file. There is no web "standard" or convention for "license.txt" 
 files like there is for, say, robots.txt or humans.txt. However, many web "applications" (those written in scripting
 languages, for example) will use a "license.txt" file to convey the terms under which the application is distributed 
