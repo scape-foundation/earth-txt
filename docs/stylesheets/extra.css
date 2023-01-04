@@ -10,7 +10,7 @@
     display: none;
 }
 [data-md-color-scheme="scapefoundation"] {
-    --md-primary-fg-color:        rgb(0, 120, 110);
+    --md-primary-fg-color:        #24BDCF;
     --md-primary-fg-color--light: #ffffff;
     --md-primary-fg-color--dark:  #001025;
 }
