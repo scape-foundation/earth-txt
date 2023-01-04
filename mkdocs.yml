@@ -38,7 +38,7 @@ copyright: Copyright &copy; 2023 Stichting Scape Foundation
 hide:
   - footer
 
-pages:
+nav:
   - Getting Started:
       - 'Introduction': 'index.md'
       - 'Quick Start': 'quick_start.md'
