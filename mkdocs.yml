@@ -37,3 +37,14 @@ copyright: Copyright &copy; 2023 Stichting Scape Foundation
 
 hide:
   - footer
+
+pages:
+  - Getting Started:
+      - 'Introduction': 'index.md'
+      - 'Quick Start': 'quick_start.md'
+      - 'Template': 'template.md'
+      - 'Fields': 'fields.md'
+  - Glossary: 'glossary.md'
+  - References: 'references.md'
+  - License: 'license.md'
+  - Privacy Policy: 'privacy.md'
