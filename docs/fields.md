@@ -1,5 +1,4 @@
-## Fields
-
+# Fields
 
 Extensions to earth.txt that will be proposed to the IANA registry.
 
@@ -13,4 +12,3 @@ Extensions to earth.txt that will be proposed to the IANA registry.
 | Hiring                 | link to the vendor's environmental-related job positions      | yes                      |
 | Policy                 | link to environmental policy page                             | yes                      |
 | Preferred-Languages    | list of preferred languages for environmental reports         | no                       |
-

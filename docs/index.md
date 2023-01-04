@@ -1,3 +1,5 @@
+# earth.txt
+
 <header>
 <p align="center">
     <img src=".github/images/earthtxt_logo.png" width="20%" height="20%" alt="Earth.txt Logo">
@@ -7,9 +9,6 @@
 </header>
 
 <br/>
-
-
-
 
 
 
