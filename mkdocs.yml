@@ -22,8 +22,16 @@ extra:
   #   provider: google
   #   property: G-XXXXXXXXXX
   social:
+    - icon: fontawesome/solid/globe 
+      link: https://www.scape.foundation
     - icon: fontawesome/brands/github 
       link: https://github.com/scape-foundation
+    - icon: fontawesome/brands/linkedin 
+      link: https://www.linkedin.com/company/scape-foundation
+    - icon: fontawesome/brands/instagram 
+      link: https://www.instagram.com/scape.foundation/
+    - icon: fontawesome/brands/facebook 
+      link: https://www.facebook.com/scape.foundation/
 
 copyright: Copyright &copy; 2023 Stichting Scape Foundation
 
