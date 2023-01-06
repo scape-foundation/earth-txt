@@ -16,7 +16,7 @@ theme:
   palette:
     scheme: scapefoundation
     # primary: light blue
-  logo: assets/image/logo_light.png
+  logo: assets/image/earthtxt_logo_light.png
   favicon: assets/favicon/favicon.ico
   # features:
   #   - navigation.tabs
@@ -50,13 +50,14 @@ hide:
   - footer
 
 nav:
-  - Getting Started:
-      - 'Introduction': 'index.md'
-      - 'Quick Start': 'quick_start.md'
-      - 'Template': 'template.md'
-      - 'Fields': 'fields.md'
+  - Introduction: 'index.md'
+  - Quick Start: 'quick_start.md'
+  - Guide:
+      - 'Template': 'guide/template.md'
+      - 'Fields': 'guide/fields.md'
   - Resources:
       - 'Glossary': 'resources/glossary.md'
+      - 'References': 'resources/references.md'
       - 'Links': 'resources/links.md'
   - About:
       - 'Authors': 'about/authors.md'
