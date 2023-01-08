@@ -4,6 +4,7 @@ This roadmap provides an overview of the direction this project is heading.
 
 
 Underlying questions:
+
 - What aspects play the largest role in the environmental effects of the Internet?
 - How can these effects be determined quantitatively and qualitatively in a simple way?
 - What secondary tools need to be developed to make the determination of these effects widely accessible?
@@ -13,6 +14,7 @@ Underlying questions:
 
 
 Future actions following project:
+
 - A publicly accessible GitHub repository will be set up for the standard.
 - Applications will be made for funds to further develop the standard.
 - It is our intention to get the standard accepted as an official standard by IANA.

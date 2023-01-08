@@ -56,6 +56,7 @@ nav:
       - 'Template': 'guide/template.md'
       - 'Fields': 'guide/fields.md'
   - Resources:
+      - 'FAQ': 'resources/faq.md'
       - 'Glossary': 'resources/glossary.md'
       - 'TXT Files': 'resources/txt_files.md'
       - 'References': 'resources/references.md'

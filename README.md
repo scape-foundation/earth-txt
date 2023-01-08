@@ -1,13 +1,11 @@
 <header>
-<p align="center">
-    <img src=".github/images/earthtxt_logo.png" width="20%" height="20%" alt="Earth.txt Logo">
-</p>
-<h1 align='center' style='border-bottom: none;'>earth.txt</h1>
-<h3 align='center'>A .txt file for Earth.</h3>
+  <p align="center">
+      <img src=".github/images/earthtxt_logo.png" width="20%" height="20%" alt="Earth.txt Logo">
+  </p>
+  <h1 align='center' style='border-bottom: none;'>earth.txt</h1>
+  <h3 align='center'>A .txt file for Earth.</h3>
 </header>
-
 <br/>
-
 <div align="center">
   <a href="https://github.com/scape-foundation/earth-txt/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&template=bug_report.yml">Report a Bug</a>
   |
@@ -19,22 +17,19 @@
   |
   <a href="https://github.com/scape-foundation/earth-txt/discussions">Start a Discussion</a>
 </div>
-
 <br/>
-
 <div align="center">
 
-[![license](https://img.shields.io/github/license/scape-foundation/earth-txt?color=green&label=license&style=flat-square)](LICENSE.md)
-[![website](https://img.shields.io/website?color=blue&down_color=red&down_message=offline&label=website&style=flat-square&up_color=green&up_message=online&url=https%3A%2F%2Fwww.starling.associates)](https://www.earthtxt.org)
+  [![license](https://img.shields.io/github/license/scape-foundation/earth-txt?color=green&label=license&style=flat-square)](LICENSE.md)
+  [![website](https://img.shields.io/website?color=blue&down_color=red&down_message=offline&label=website&style=flat-square&up_color=green&up_message=online&url=https%3A%2F%2Fwww.earthtxt.org)](https://www.earthtxt.org)
 
-![stars](https://img.shields.io/github/stars/scape-foundation/earth-txt?color=blue&label=stars&style=flat-square)
-![forks](https://img.shields.io/github/forks/scape-foundation/earth-txt?color=blue&label=forks&style=flat-square)
-![downloads](https://img.shields.io/github/downloads/scape-foundation/earth-txt/total?color=blue&label=downloads&style=flat-square)
-![sponsors](https://img.shields.io/github/sponsors/scape-foundation?color=blue&label=sponsors&style=flat-square)
-![contributors](https://img.shields.io/github/contributors/scape-foundation/earth-txt?color=blue&label=contributors&style=flat-square)
-
+  ![stars](https://img.shields.io/github/stars/scape-foundation/earth-txt?color=blue&label=stars&style=flat-square)
+  ![forks](https://img.shields.io/github/forks/scape-foundation/earth-txt?color=blue&label=forks&style=flat-square)
+  ![downloads](https://img.shields.io/github/downloads/scape-foundation/earth-txt/total?color=blue&label=downloads&style=flat-square)
+  ![sponsors](https://img.shields.io/github/sponsors/scape-foundation?color=blue&label=sponsors&style=flat-square)
+  ![contributors](https://img.shields.io/github/contributors/scape-foundation/earth-txt?color=blue&label=contributors&style=flat-square)
+  
 </div>
-
 <br/>
 <details open="open">
 <summary>Table of Contents</summary>
@@ -48,8 +43,6 @@
 </details>
 
 
-
-
 > “The Internet is the single biggest thing we’re going to build as a species. This is something if we build it the right way, with the right sources of energy, could really help power our transition to renewables. If we build it the wrong way, it could actually exacerbate the problem.”
 >
 > — Gary Cook, Greenpeace
@@ -57,12 +50,10 @@
 
 ## About
 
-
 **`earth.txt`** is a proposed standard which allows websites to define environmental sustainability policies.
 
 
 ## Quick Start
-
 
 ### 1. Create
 
@@ -73,7 +64,6 @@ Always use lower-case formatting for the filename.
 #### 1.2 Encoding
 Make sure that the **`earth.txt`** file is UTF-8 encoded to avoid issues with special characters and multiple languages.
 
-
 ### 2. Place
 
 #### 2.1. well-known Directory
@@ -83,15 +73,12 @@ In principle, the **`earth.txt`** file should be placed under the `/.well-known/
 https://example.com/.well-known/earth.txt
 ```
 
-
-
 #### 2.2. Root Directory
 If the `/.well-known/` directory cannot be used for technical reasons, or if you want to use a fallback option, the **`earth.txt`** file can also be placed in the `root` directory of your website. For example:
 
 ```
 https://example.com/earth.txt
 ```
-
 
 The **`earth.txt`** file can be placed in both locations of a website at the same time. Hence, the final directory structure for your website could look like this:
 
@@ -103,9 +90,7 @@ example.com/
     └── earth.txt
 ```
 
-
 ### 3. Link
-
 
 #### 3.1. Head
 
@@ -115,10 +100,8 @@ Place a reference to the file using a `“help”` tag to the `<head>` section o
 <link type="text/plain" rel="help" href="https://example.com/earth.txt"/>
 ```
 
-
 #### 3.2. Button
 Embed a **`earth.txt`** button to your site and link it to your **`earth.txt`** file.
-
 
 ### 4. Serve
 
@@ -127,7 +110,6 @@ The **`earth.txt`** file should have an Internet Media Type of `text/plain`.
 
 #### 4.2. Protocol
 The **`earth.txt`** file must be served over HTTPS.
-
 
 
 ## Authors
