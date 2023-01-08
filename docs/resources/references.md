@@ -1,56 +1,27 @@
 # References
 
-## robots.txt
-
-contains information and instructions for robots (so it should be read/used by web crawlers, spiders and other kind of bots)
-
-link:   http://www.robotstxt.org
-        https://en.wikipedia.org/wiki/Robots_exclusion_standard
+https://www.iana.org/
 
 
-## humans.txt
 
-contains useful information to be consumed by humans, according to http://humanstxt.org/
-link:   http://humanstxt.org/
-https://www.reddit.com/r/webdev/comments/2u4p41/companies_with_humanstxt/
-
-
-## hackers.txt
-
-should be targeted towards hackers, so it should contain any information the site owner might want to transmit to a hacker, 
-as Ze'ev pointed out. I don't think this should be a place for hackers to write anything, 
-but rather to get information from the site owner (perhaps on how to report vulnerabilities, as others suggested).
-As with humans.txt, there also seems to be a hackers.txt site at h
+https://www.sustainablewebmanifesto.com/
+https://www.websitecarbon.com/
+https://sustainablewebdesign.org/
+https://securitytxt.org/
+https://github.com/securitytxt/
+https://github.com/securitytxt/security-txt
+https://www.rfc-editor.org/rfc/rfc9116
+https://twitter.com/securitytxt
+https://www.iana.org/assignments/security-txt-fields/security-txt-fields.xhtml#security-txt-fields
+https://www.digitaltrustcenter.nl/securitytxt?utm_campaign=ezk-security-10-2022&utm_medium=social&utm_source=twitter&utm_content=ros-social-b&utm_term=ppvla-multi-device-cpm-awareness
 
 
-link:   http://www.hackerstxt.org/
 
 
-## security.txt
-
-Details and a nifty tool to generate your own security.txt can be found at 
-A proposed standard which allows websites to define security policies.
-
-link:   https://securitytxt.org/
-        https://github.com/securitytxt/securitytxt.org
-        https://github.com/securitytxt/security-txt
-        https://securitytxt.io/
-        https://github.com/securitytxt/security-txt/tree/master/docs
+https://www.climateimpact.com/news-insights/insights/infographic-carbon-footprint-internet/
 
 
-## licence.txt
 
-License.txt is simply a generic name for any license file. There is no web "standard" or convention for "license.txt" 
-files like there is for, say, robots.txt or humans.txt. However, many web "applications" (those written in scripting
-languages, for example) will use a "license.txt" file to convey the terms under which the application is distributed 
-(common to open source projects especially). This file often resides in the root of an application directory.
-
-As pointed out in the comments, retrieval of the "license.txt" file can give various kinds of clues about the system 
-that provides it that may be of use to someone who wishes to exploit the site, even if this information doesn't specifically 
-relate to "license.txt." That said, simply having a "license.txt" file doesn't mean your system is vulnerable.
-
-There is no reason to keep this file available (or any non-essential file after setup for that matter) and it should be 
-removed to discourage bad behavior and thwart any real exploit attempts.
 
 link:   
 

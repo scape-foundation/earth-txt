@@ -41,10 +41,7 @@
 
 - [About](#about)
 - [Quick Start](#quick-start)
-- [Usage](#usage)
-- [Website](#website)
 - [Authors](#authors)
-- [Roadmap](#roadmap)
 - [License](#license)
 - [Contributing](#contributing)
 
@@ -132,49 +129,6 @@ The **`earth.txt`** file should have an Internet Media Type of `text/plain`.
 The **`earth.txt`** file must be served over HTTPS.
 
 
-## Template
-
-An example of a valid earth.txt file:
-
-```
-# You may contact us at any of the following URLs:
-Contact: mailto:example@example.com
-Contact: https://example.com/environment
-Expires: 2023-01-01T04:59:00.000Z
-Acknowledgments: https://example.com/acknowledgments
-# Use English or Dutch to conact us please!
-Preferred-Languages: en, nl
-Canonical: https://example.com/.well-known/earth.txt
-Canonical: https://example.com/earth.txt
-Policy: https://example.com/environmental_policy
-Hiring: https://example.com/careers
-```
-
-## Fields
-
-
-Extensions to earth.txt that will be proposed to the IANA registry.
-
-
-| **Field Name**         | **Description**                                               | **Multiple Appearances** |
-|------------------------|---------------------------------------------------------------|--------------------------|
-| Acknowledgments        | link to page where environmental researchers are recognized   | yes                      |
-| Canonical              | canonical URI for this file                                   | yes                      |
-| Contact                | contact information to use for reporting environmental issues | yes                      |
-| Expires                | date and time after which this file is considered stale       | no                       |
-| Hiring                 | link to the vendor's environmental-related job positions      | yes                      |
-| Policy                 | link to environmental policy page                             | yes                      |
-| Preferred-Languages    | list of preferred languages for environmental reports         | no                       |
-
-
-
-## Website
-
-- earth.txt Website: [https://www.earthtxt.org](https://www.earthtxt.org "earth.txt website")
-- earth.txt GitHub Page: [https://github.com/scape-foundation/earth.txt](https://github.com/scape-foundation/earth.txt "earth.txt GitHub Page")
-- Scape Foundation Website: [https://www.scape.foundation](https://www.scape.foundation "Scape Foundation Website")
-- Scape Foundation GitHub Page: [https://github.com/scape-foundation](https://github.com/scape-foundation "Scape Foundation GitHub Page")
-
 
 ## Authors
 
@@ -184,11 +138,8 @@ The Scape Foundation believes that our cities are the forests of the future. A n
 
 website: [www.scape.foundation](https://www.scape.foundation "Scape Foundation website")
 
-## Roadmap
-
 
 ## License
-
 
 Except where otherwise noted, **`earth.txt`** by the Scape Foundation is licensed under the terms of the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International License"). To view a copy of this license, visit [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International License") or write to Creative Commons, 171 Second Street, Suite 300, San Francisco, CA 94105, USA.
 

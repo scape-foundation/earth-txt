@@ -9,6 +9,7 @@ Always use lower-case formatting for the filename.
 ### 1.2 Encoding
 Make sure that the **`earth.txt`** file is UTF-8 encoded to avoid issues with special characters and multiple languages.
 
+---
 
 ## 2. Place
 
@@ -18,7 +19,6 @@ In principle, the **`earth.txt`** file should be placed under the `/.well-known/
 ```
 https://example.com/.well-known/earth.txt
 ```
-
 
 ### 2.2. Root Directory
 If the `/.well-known/` directory cannot be used for technical reasons, or if you want to use a fallback option, the **`earth.txt`** file can also be placed in the `root` directory of your website. For example:
@@ -37,6 +37,8 @@ example.com/
     └── earth.txt
 ```
 
+---
+
 
 ## 3. Link
 
@@ -52,6 +54,9 @@ Place a reference to the file using a `“help”` tag to the `<head>` section o
 
 ### 3.2. Button
 Embed a **`earth.txt`** button to your site and link it to your **`earth.txt`** file.
+
+
+---
 
 
 ## 4. Serve

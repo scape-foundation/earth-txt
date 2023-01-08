@@ -13,7 +13,18 @@
 > — Gary Cook, Greenpeace
 
 
-**`earth.txt`** is a proposed standard which allows websites to define environmental sustainability policies.
+> “The struggle to understand and steer the interaction between the bitsphere and the biosphere is the struggle for community in the broadest ecological context.”
+>
+> — Ursula M. Franklin, The Real World of Technology (1989)
+
+
+---
+
+
+**`earth.txt`** is a standard for a text file which allows websites to define environmental sustainability policies. The earth.txt file standard sets clear guidelines through which both environmental researchers and the general public can assess the environmental footprint of a certain website and of the entity that controls it.
+
+
+---
 
 
 **`earth.txt`** is an open-source project by the [Scape Foundation](https://www.scape.foundation "Scape Foundation website").

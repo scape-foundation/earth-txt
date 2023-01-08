@@ -57,10 +57,17 @@ nav:
       - 'Fields': 'guide/fields.md'
   - Resources:
       - 'Glossary': 'resources/glossary.md'
+      - 'TXT Files': 'resources/txt_files.md'
       - 'References': 'resources/references.md'
       - 'Links': 'resources/links.md'
   - About:
+      - 'Background': 'about/background.md'
       - 'Authors': 'about/authors.md'
+      - 'Contact': 'about/contact.md'
+  - Development:
+      - 'Roadmap': 'development/roadmap.md'
+      - 'Contributing': 'development/contributing.md'
+      - 'Code of Conduct': 'development/code_of_conduct.md'
   - Legal Information:
       - 'License': 'legal/license.md'
       - 'Privacy Policy': 'legal/privacy_policy.md'
