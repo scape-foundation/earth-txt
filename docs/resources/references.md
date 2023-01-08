@@ -1,39 +1,40 @@
 # References
 
-https://www.iana.org/
+
+
+### Standard Organisations
+
+- [Internet Assigned Numbers Authority (IANA)](https://www.iana.org/)
+- [The Green Web Foundation](https://www.thegreenwebfoundation.org/)
+- https://www.digitaltrustcenter.nl/securitytxt?utm_campaign=ezk-security-10-2022&utm_medium=social&utm_source=twitter&utm_content=ros-social-b&utm_term=ppvla-multi-device-cpm-awareness
+
+### Sustainable Internet Initiatives
+
+
+- [Sustainable Web Manifesto](https://www.sustainablewebmanifesto.com/)
+- [Sustainable Web Design](https://sustainablewebdesign.org/)
+
+
+### Tools
+
+
+#### Website Carbon Calculators
+
+- [Website Carbon Calculator](https://www.websitecarbon.com/)
+- [Karma Matrix](https://karmametrix.com/demo-karma-test/)
+- [Greenpixie | Website Carbon Calculator](https://greenpixie.com/website-carbon-calculator)
+- [Carbon Neutral Website](https://carbonneutralwebsite.org/)
+- [Carbon Neutral Website | GitHub](https://github.com/btk/carbonneutralwebsite)
+- [Ricardo Dantas | Website Carbon Calculator](https://github.com/ricardodantas/website-carbon-calculator)
+- [Raghav Mecheri | Carbon Extension](https://github.com/raghavmecheri/CarbonExtension)
+- [SAS Digital Humanities Research Hub | Webcarbon Scraper](https://github.com/SAS-DHRH/webcarbon-scraper)
+- [Akhela | Website Carbon Calculator](https://github.com/akhela-studio/website-carbon-calculator)
+- [Agata Szulc | Carbon Calc](https://github.com/aszulc97/carbon-calc)
+- [Giovanni Pirrotta | Carbon Calculator](https://github.com/gpirrotta/carbon-calculator)
 
 
 
-https://www.sustainablewebmanifesto.com/
-https://www.websitecarbon.com/
-https://sustainablewebdesign.org/
-https://securitytxt.org/
-https://github.com/securitytxt/
-https://github.com/securitytxt/security-txt
-https://www.rfc-editor.org/rfc/rfc9116
-https://twitter.com/securitytxt
-https://www.iana.org/assignments/security-txt-fields/security-txt-fields.xhtml#security-txt-fields
-https://www.digitaltrustcenter.nl/securitytxt?utm_campaign=ezk-security-10-2022&utm_medium=social&utm_source=twitter&utm_content=ros-social-b&utm_term=ppvla-multi-device-cpm-awareness
+### Articles
 
-
-
-
-https://www.climateimpact.com/news-insights/insights/infographic-carbon-footprint-internet/
-
-
-
-
-link:   
-
-
-
-
-https://en.wikipedia.org/wiki/Pretty_Good_Privacy
-https://github.com/public/OpenPGP-SDK
-
-
-References:
-https://stackoverflow.com/questions/15358356/what-is-the-use-of-the-hackers-txt-file/15358794#15358794
-
-Contributions from the public are welcome. Refer to the [contribution guidelines](CONTRIBUTING.md) for information on contributing to this project.
+- [The Carbon Footprint of the Internet](https://www.climateimpact.com/news-insights/insights/infographic-carbon-footprint-internet/)
 

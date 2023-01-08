@@ -1,52 +1,82 @@
+# TXT Files
+
+Several similar text standards already exist for specification of various aspects of a website. Examples include:
+
+
+---
+
 
 ## robots.txt
 
-contains information and instructions for robots (so it should be read/used by web crawlers, spiders and other kind of bots)
+`robots.txt` contains information and instructions for robots (so it should be read/used by web crawlers, spiders and other types of bots).
 
-link:   http://www.robotstxt.org
-        https://en.wikipedia.org/wiki/Robots_exclusion_standard
-
-
-## humans.txt
-
-contains useful information to be consumed by humans, according to http://humanstxt.org/
-link:   http://humanstxt.org/
-https://www.reddit.com/r/webdev/comments/2u4p41/companies_with_humanstxt/
+- [robots.txt website](https://www.robotstxt.org/)
+- [robots.txt Wikipedia](https://en.wikipedia.org/wiki/Robots_exclusion_standard)
 
 
-## hackers.txt
-
-should be targeted towards hackers, so it should contain any information the site owner might want to transmit to a hacker, 
-as Ze'ev pointed out. I don't think this should be a place for hackers to write anything, 
-but rather to get information from the site owner (perhaps on how to report vulnerabilities, as others suggested).
-As with humans.txt, there also seems to be a hackers.txt site at h
-
-
-link:   http://www.hackerstxt.org/
+---
 
 
 ## security.txt
 
-Details and a nifty tool to generate your own security.txt can be found at 
-A proposed standard which allows websites to define security policies.
+`security.txt` is a standard that allows websites to define security policies.
 
-link:   https://securitytxt.org/
-        https://github.com/securitytxt/securitytxt.org
-        https://github.com/securitytxt/security-txt
-        https://securitytxt.io/
-        https://github.com/securitytxt/security-txt/tree/master/docs
+- [security.txt website](https://www.securitytxt.org/)
+- [security.txt Twitter profile](https://twitter.com/securitytxt)
+- [security.txt GitHub profile](https://github.com/securitytxt/)
+- [security.txt GitHub repository](https://github.com/securitytxt/security-txt)
+- [security.txt RFC editor](https://www.rfc-editor.org/rfc/rfc9116)
+- [security.txt RFC editor](https://www.rfc-editor.org/rfc/rfc9116)
+- [security.txt IANA Fields](https://www.iana.org/assignments/security-txt-fields/security-txt-fields.xhtml)
+- [security.txt Wikipedia](https://en.wikipedia.org/wiki/Security.txt)
+
+
+---
+
+
+## humans.txt
+
+`humans.txt` contains useful information that can be consumed by humans.
+
+- [humans.txt website](http://humanstxt.org/)
+- [humans.txt Reddit thread](https://www.reddit.com/r/webdev/comments/2u4p41/companies_with_humanstxt/)
+
+
+---
+
+
+## ads.txt
+
+`ads.txt` specifies a text file that companies can host on their web servers, listing the other companies authorized to sell their products or services.
+
+- [ads.txt IAB Tech Lab](https://iabtechlab.com/ads-txt/)
+- [ads.txt Wikipedia](https://en.wikipedia.org/wiki/Ads.txt)
+- [ads.txt AdSense guide](https://support.google.com/adsense/answer/7532444?hl=en)
+
+
+---
+
+
+## hackers.txt
+
+`hackers.txt` should be targeted towards hackers, so it should contain any information the site owner might want to transmit to a hacker.
+
+- [hackers.txt website](http://hackerstxt.org/)
+- [hackers.txt Stackoverflow thread](https://stackoverflow.com/questions/15358356/what-is-the-use-of-the-hackers-txt-file/15358794#15358794)
+
+
+---
 
 
 ## licence.txt
 
-License.txt is simply a generic name for any license file. There is no web "standard" or convention for "license.txt" 
-files like there is for, say, robots.txt or humans.txt. However, many web "applications" (those written in scripting
-languages, for example) will use a "license.txt" file to convey the terms under which the application is distributed 
-(common to open source projects especially). This file often resides in the root of an application directory.
+`licence.txt` is simply a generic name for any license file. There is no web "standard" or convention for "license.txt" files like there is for, say, robots.txt or humans.txt. However, many web "applications" (those written in scripting languages, for example) will use a "license.txt" file to convey the terms under which the application is distributed (common to open source projects especially). This file often resides in the root of an application directory.
 
-As pointed out in the comments, retrieval of the "license.txt" file can give various kinds of clues about the system 
-that provides it that may be of use to someone who wishes to exploit the site, even if this information doesn't specifically 
-relate to "license.txt." That said, simply having a "license.txt" file doesn't mean your system is vulnerable.
 
-There is no reason to keep this file available (or any non-essential file after setup for that matter) and it should be 
-removed to discourage bad behavior and thwart any real exploit attempts.
+---
+
+
+## pgpkey.txt
+
+- [pgpkey.txt Wikipedia](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)
+- [pgpkey.txt GitHub](https://github.com/public/OpenPGP-SDK)
