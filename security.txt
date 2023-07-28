@@ -1,0 +1,8 @@
+# Canonical
+Canonical: https://www.earthtxt.org/security.txt
+
+# Contact
+Contact: mailto:info@scape.foundation
+
+# Preferred-Languages
+Preferred-Languages: en
